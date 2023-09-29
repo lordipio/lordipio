@@ -1,6 +1,6 @@
--  Heyyy! I'm AmirAli🙂
-- Currently learning Unreal Engine 4😗
-- Have obsession with game development 👽
+-  Heyyy! I'm Amir Ali🙂
+- Always learning Game Development😗
+
 
 
 <!---
