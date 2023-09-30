@@ -1,6 +1,19 @@
--  Heyyy! I'm Amir Ali🙂
-- Always learning Game Development😗
+<p align="center">
+Hi, I'm Amir Ali🙂
+</p> 
+<p align="center">
+Currently studying Industrial Engineering at Amirkabir University of Technology📚
+</p>
+<p align="center">
+Working on video games using Unreal Engine and Unity🎮
+</p>
 
+
+
+
+- How to reach me? [MY EMAIL](amirali1051080@gmail.com)📧
+- Watch projects video [HERE](https://www.youtube.com/@AmirAli-bh7fi)🎥
+ 
 
 
 <!---
